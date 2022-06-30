@@ -23,10 +23,9 @@ keywords = ["curve", "spawn","array"]
 
 # Use omni.ui to build simple UI
 [dependencies]
-"omni" = {}
-"pxr" = {}
-# "bezier" = {}
-# "numpy" = {}
+"omni.kit.commands" = {}
+"omni.ui" = {}
+"omni.usd" = {}
 
 [python.pipapi]
 requirements = ['numpy', 'bezier']
