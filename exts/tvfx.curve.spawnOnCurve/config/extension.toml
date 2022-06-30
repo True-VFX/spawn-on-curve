@@ -9,6 +9,8 @@ description="Spawn objects along a curve"
 # Path (relative to the root) or content of readme markdown file for UI.
 readme  = "docs/README.md"
 
+icon = "docs/preview2.jpg"
+
 # URL of the extension source repository.
 repository = ""
 
