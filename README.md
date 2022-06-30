@@ -1,5 +1,4 @@
 # Spawn Along Curve
-
 Spawn objects along a bezier curve
 
 ## Spawn Type: Count
@@ -26,3 +25,8 @@ Spawn objects with a set distance between them along a bezier curve
  - Spawned object location doesn't update when editing the curve
  - Tight curves give weird results when spacing objects
  - Only Bezier Curves are supported
+
+## Adding This Extension
+To add this extension to your Omniverse app:
+1. Go into: Extension Manager -> Gear Icon -> Extension Search Path
+2. Add this as a search path: `git://github.com/True-VFX/spawn-on-curve.git?branch=main&dir=exts`
